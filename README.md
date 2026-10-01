@@ -1,0 +1,2 @@
+# premium-kiln-build-001-kiln-construction-brick-mort
+Built for traditional-pottery-kilns professionals who are tired of spending hours building a system before you can actually use it.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Kiln Construction Brick &amp; Mortar Calcula
